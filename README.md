@@ -4,6 +4,14 @@ A theme that channels the aesthetics of vintage computing — amber phosphor ter
 
 ![](https://img.shields.io/badge/dark_mode-amber_terminal-orange?style=flat-square) ![](https://img.shields.io/badge/light_mode-original_mac-lightgrey?style=flat-square)
 
+## Screenshots
+
+### Dark Mode — Amber Phosphor Terminal
+![Dark mode](screenshot.png)
+
+### Light Mode — Original Macintosh (1984)
+![Light mode](screenshot-light.png)
+
 ## Features
 
 ### 🖥️ Dark Mode — Amber Phosphor Terminal
