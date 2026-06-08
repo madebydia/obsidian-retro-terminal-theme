@@ -60,8 +60,8 @@ The theme uses this font stack (in order of preference):
 
 | Font | Notes |
 |------|-------|
-| [Monaco](https://en.wikipedia.org/wiki/Monaco_(typeface)) | macOS built-in, the classic |
-| [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface)) | macOS built-in fallback |
+| [Monaco](<https://en.wikipedia.org/wiki/Monaco_(typeface)>) | macOS built-in, the classic |
+| [Menlo](<https://en.wikipedia.org/wiki/Menlo_(typeface)>) | macOS built-in fallback |
 | [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) | Free, excellent terminal feel |
 | [Cascadia Mono](https://github.com/microsoft/cascadia-code) | Microsoft's modern monospace |
 | Courier New | Universal fallback |
